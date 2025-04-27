@@ -1,6 +1,6 @@
 # Hi there, I'm Marc King 👋
 
-Aspiring Front-End Developer passionate about building responsive and user-friendly web applications.
+Front-End Developer, builds user-friendly web applications.
 
 ---
 
@@ -9,7 +9,6 @@ Aspiring Front-End Developer passionate about building responsive and user-frien
 - 🌱 Expanding into **Full-Stack Development** (Laravel, Express.js, MongoDB, MySQL)
 - 💬 Ask me about **React, Tailwind CSS, JavaScript, and Frontend Development**
 - 📫 How to reach me: [marclawrenceking@gmail.com](mailto:marclawrenceking@gmail.com)
-- 🌍 Based in Caloocan City, Metro Manila
 
 ---
 
@@ -21,8 +20,6 @@ Aspiring Front-End Developer passionate about building responsive and user-frien
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoAnimation=spin)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge&logoAnimation=spin)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge&logoAnimation=spin)
-
-### Styling
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge&logoAnimation=spin)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&logoAnimation=spin)
 
@@ -40,18 +37,19 @@ Aspiring Front-End Developer passionate about building responsive and user-frien
 ---
 
 ## 📚 Projects
-- [Portfolio Website](https://portfolio-website-seven-phi-44.vercel.app/) - Built with Vite + React + Tailwind CSS
-- [ExQuizSeat - Mobile Quiz App](https://github.com/marclawrenceking) - Built with React Native and GitHub collaboration
-- [AWSCC-PUP Main Frontend Workshop Project](https://marclawrenceking.github.io/AWSCC-PUP-Main-Frontend-Workshop/)
+- [Portfolio Website](https://portfolio-website-seven-phi-44.vercel.app/) - Vite + React, Tailwind CSS, Google App Scripts
+- [ExQuizSeat - Mobile Quiz App](https://docs.google.com/document/d/1ItywXoAIUPukKYIV-g_E0Ep7Xno2eD18i2qK0oyJLRg/edit?tab=t.0) - React Native CLI
+- [AWSCC-PUP Main Frontend Workshop Project](https://marclawrenceking.github.io/AWSCC-PUP-Main-Frontend-Workshop/) HTML, CSS, JavaScript
 
 ---
 
 ## 🏆 Activities
-- CodeQuest: 30 Days of Frontend Web Development (Dec 2023 - Jan 2024)
+
 - 13th IT Skills Olympics - Android Apps Category (Nov 2024)
-- Trend Micro University Capture the Flag (Aug 2024)
 - Professor Widom’s Instructional Odyssey @ DLSU Manila (Sept 2024)
 - MapaKalamidadPH Data Management Workshop (Sept 2024)
+- Trend Micro University Capture the Flag (Aug 2024)
+- CodeQuest: 30 Days of Frontend Web Development (Dec 2023 - Jan 2024)
 
 ---
 
