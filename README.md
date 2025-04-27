@@ -1,11 +1,11 @@
 # Hi there, I'm Marc King 👋
 
-Front-End Developer, builds user-friendly web applications.
+Front-End Developer.
 
 ---
 
 ## 🚀 About Me
-- 🎓 BS Information Technology student at **Polytechnic University of the Philippines - Manila** (2022-2026)
+- 🎓 BS IT student at **Polytechnic University of the Philippines - Manila** (2022-2026)
 - 🌱 Expanding into **Full-Stack Development** (Laravel, Express.js, MongoDB, MySQL)
 - 💬 Ask me about **React, Tailwind CSS, JavaScript, and Frontend Development**
 - 📫 How to reach me: [marclawrenceking@gmail.com](mailto:marclawrenceking@gmail.com)
