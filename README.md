@@ -1,6 +1,6 @@
 # Hi there, I'm Marc King 👋
 
-I am a Front-End Developer.
+I am a Web Developer.
 
 ---
 
