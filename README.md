@@ -7,7 +7,7 @@ I am a Web Developer.
 ## 🚀 About Me
 - 🎓 BS IT student at **Polytechnic University of the Philippines - Manila** (2022-2026)
 - 🌱 Expanding into **Full-Stack Development** (Laravel, Express.js, MongoDB, MySQL)
-- 💬 Ask me about **React, Tailwind CSS, JavaScript, and Frontend Development**
+- 💬 Ask me about **React, Tailwind CSS, JavaScript, and Full-stack Web Development**
 - 📫 How to reach me: [marclawrenceking@gmail.com](mailto:marclawrenceking@gmail.com)
 
 ---
