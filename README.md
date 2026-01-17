@@ -45,11 +45,12 @@ I am a Web Developer.
 
 ## 🏆 Activities
 
+- 14th IT Skills Olympics - Database Programming (Nov 2025)
 - 13th IT Skills Olympics - Android Apps Category (Nov 2024)
 - Professor Widom’s Instructional Odyssey @ DLSU Manila (Sept 2024)
 - MapaKalamidadPH Data Management Workshop (Sept 2024)
 - Trend Micro University Capture the Flag (Aug 2024)
-- CodeQuest: 30 Days of Frontend Web Development (Dec 2023 - Jan 2024)
+- CodeQuest: 30 Days of Frontend Web Development (Dec 2023)
 
 ---
 
