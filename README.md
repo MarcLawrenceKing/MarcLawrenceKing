@@ -56,6 +56,6 @@ I am a Web Developer.
 ## 📈 GitHub Stats
 ![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marclawrenceking&show_icons=true&theme=radical)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marc%20King-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marc-lawrence-king-0721a6261/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marc%20King-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marclawrenceking/)
 
 ---
