@@ -36,9 +36,9 @@ I am a Web Developer.
 ---
 
 ## 📚 Projects
-- [Portfolio Website](https://portfolio-website-seven-phi-44.vercel.app/) - Vite + React, Tailwind CSS, Google App Scripts
+- [Boto Mo 'To](https://boto-mo-to.online) - Next.js, Prisma, Supabase (Postgres)
 - [ExQuizSeat - Mobile Quiz App](https://docs.google.com/document/d/1ItywXoAIUPukKYIV-g_E0Ep7Xno2eD18i2qK0oyJLRg/edit?tab=t.0) - React Native CLI
-- [AWSCC-PUP Main Frontend Workshop Project](https://marclawrenceking.github.io/AWSCC-PUP-Main-Frontend-Workshop/) - HTML, CSS, JavaScript
+- [Simple Mail Merge](https://mail-merge-ni-marc.vercel.app/) - React.js, Express.js, Supabase (Postgres)
 
 ---
 
