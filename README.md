@@ -1,59 +1,78 @@
 # Hi there, I'm Marc King 👋
 
-I am a Web Developer.
+Full-Stack Developer experienced in building and deploying modern web applications, with a strong foundation in system design, SQL databases, and real-world software delivery.
 
 ---
 
 ## 🚀 About Me
-- 🎓 BS IT student at **Polytechnic University of the Philippines - Manila** (2022-2026)
-- 🌱 Learning **Full-Stack Development** (React.js, Laravel, Express.js, Postgres, MySQL)
-- 📫 How to reach me: [marclawrenceking@gmail.com](mailto:marclawrenceking@gmail.com)
+- 🎓 BS Information Technology, Polytechnic University of the Philippines (2022–2026)
+- 🏅 DOST Scholar | President’s Lister
+- 💻 Passionate about building scalable, real-world systems (Web, SaaS, Internal Tools)
+- 🌱 Currently exploring **system design, cloud, and DevOps practices**
+- 📫 Reach me at: [marclawrenceking@gmail.com](mailto:marclawrenceking@gmail.com)
 
 ---
 
-## 🛠️ Skills
+## 💼 Experience
 
-### Front-End
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoAnimation=spin)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoAnimation=spin)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoAnimation=spin)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge&logoAnimation=spin)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge&logoAnimation=spin)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge&logoAnimation=spin)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&logoAnimation=spin)
+### Full-Stack Developer Intern — Tambuli Labs
+*Feb 2026 – Present*
+- Built a **Dental Information System** using Django, React, PostgreSQL, and Keycloak
+- Digitized clinic workflows (patients, appointments, reports), replacing manual processes
+- Deployed on-premise using **Docker + Nutanix**, with secure remote access via Tailscale (SSH)
+- Led client demos and gathered feedback for real-world alignment
 
-### Back-End
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&logoAnimation=spin)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge&logoAnimation=spin)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge&logoAnimation=spin)
+### Full-Stack Developer Intern — C8nnect IT Solutions
+*Dec 2025 – Mar 2026*
+- Contributed to a **multi-tenant HRIS** (React, Express, Drizzle ORM, Supabase)
+- Introduced structured ORM migrations, reducing schema-related bugs and inconsistencies
+
+### Programmer Intern — DOST Central Office
+*Jun 2025 – Sep 2025*
+- Developed an **Intern Management System** using Laravel + MySQL
+- Replaced direct DB access with structured CRUD modules and dashboards
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+React.js, Next.js, Tailwind CSS, Bootstrap
+
+### Backend
+Express.js, Laravel, Django REST Framework, ASP.NET MVC
+
+### Databases
+MySQL, PostgreSQL
+
+### DevOps & Infrastructure
+Docker, Tailscale, AWS Lambda, API Gateway, Vercel, Supabase  
+Linux, SSH, Virtualization (Nutanix, VirtualBox)
 
 ### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge&logoAnimation=spin)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&logoAnimation=spin)
+Git, Figma
 
 ---
 
-## 📚 Projects
-- [Boto Mo 'To](https://boto-mo-to.online) - Next.js, Prisma, Supabase (Postgres)
-- [ExQuizSeat - Mobile Quiz App](https://docs.google.com/document/d/1ItywXoAIUPukKYIV-g_E0Ep7Xno2eD18i2qK0oyJLRg/edit?tab=t.0) - React Native CLI
-- [Simple Mail Merge](https://mail-merge-ni-marc.vercel.app/) - React.js, Express.js, Supabase (Postgres)
+## 📌 Featured Projects
+
+### 🗳️ Boto Mo ‘To (Capstone)
+- SaaS Online Voting System (Next.js, Supabase, Prisma, AWS S3)
+- Used in a real election with **500+ voters**
+- Focused on secure, accessible, and user-friendly voting
+
+### 📧 Simple Mail Merge
+- Automated personalized email sender (React, Express, Supabase, AWS Lambda)
+- Helped 10+ students streamline OJT applications
 
 ---
 
-## 🏆 Activities
-
-- 14th IT Skills Olympics - Database Programming (Nov 2025)
-- 13th IT Skills Olympics - Android Apps Category (Nov 2024)
-- Professor Widom’s Instructional Odyssey @ DLSU Manila (Sept 2024)
-- MapaKalamidadPH Data Management Workshop (Sept 2024)
-- Trend Micro University Capture the Flag (Aug 2024)
-- CodeQuest: 30 Days of Frontend Web Development (Dec 2023)
+## 🏆 Achievements
+- 🎓 DOST RA 7687 Scholar
+- 🏅 President’s Lister (GWA 1.50)
+- 📜 Java Programming NC III (TESDA)
 
 ---
 
-## 📈 GitHub Stats
-![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marclawrenceking&show_icons=true&theme=radical)
-
+## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marc%20King-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marclawrenceking/)
-
----
