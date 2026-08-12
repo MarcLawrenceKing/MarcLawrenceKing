@@ -16,7 +16,7 @@ Full-Stack Developer experienced in building and deploying modern web applicatio
 ## 💼 Experience
 
 ### Full-Stack Developer Intern — Tambuli Labs
-*Feb 2026 – Present*
+*Feb 2026 – June 2026*
 - Built a **Dental Information System** using Django, React, PostgreSQL, and Keycloak
 - Digitized clinic workflows (patients, appointments, reports), replacing manual processes
 - Deployed on-premise using **Docker + Nutanix**, with secure remote access via Tailscale (SSH)
